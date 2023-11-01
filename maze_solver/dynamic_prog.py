@@ -1,4 +1,4 @@
-#Set of functions for solving a maze with dynamic programming.
+#Functions for solving a maze with dynamic programming.
 #Methodology outlined in Chapter 4 of Sutton and Barto.
 
 import numpy as np
