@@ -2,7 +2,7 @@
 Various reinforcement learning techniques are employed to solve mazes. 
 
 # Description
-- Mazes solved with following techniques: dynamic programming.
+- Mazes solved with following techniques: dynamic programming, Q learning
 - A demo notebook is included showing how the code works. 
 - Various mazes are included to be imported. In principle this works with any square maze where the following conditions apply:
   - A maze is a square 2d array, defining the rewards.
